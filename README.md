@@ -15,7 +15,7 @@
 
 - ⌨️  Check out my [website](https://itsnoahevans.co.uk) for more
 
-- ⚡ Fun fact: **I hate AppleScript.**
+- ⚡ Fun fact: **Amy is a cool person.**
 
 
 ![Noah's stats](https://github-readme-stats.vercel.app/api?username=thisisnoahevans&count_private=true&show_icons=true&theme=dark)
